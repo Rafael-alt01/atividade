@@ -1,0 +1,268 @@
+.bg-lumin{
+    background-color: #FAF9F6
+;
+}
+
+.bg-gray{
+    background-color: #8B4513
+}
+
+.bg-cinza{
+    background-color: #cac7c7;
+}
+
+.bg-light_gray{
+    background-color: #e4dada
+}
+
+.btn-outline-Bege{
+    background-color: #E8AEB7;
+}
+
+.bg-bage{
+    background-color: rgb(223, 193, 155);
+}
+
+.bg-tertiary{
+    background-color: rgb(148, 147, 147);
+}
+
+.logo{
+    width: 56px;
+    border-radius: 50%;
+}
+
+.logo01{
+    width: 30%;
+    border-radius: 50%;
+    margin-left: 10% ;
+}
+
+/*----------------------*/
+
+.reuniao_001{
+  box-shadow: 10px 4px 10px rgba(0,0,0,0.3);
+  width: 85%;
+  margin-left: 5%;
+}
+
+
+/*----------------------*/
+
+.titulo{
+    margin-top: 40%;
+}
+
+.carousel-inner{
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+}
+
+.header{
+    background-image: url('../img/Casamento/Cas_02.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header_contato{
+    background-image: url('../img/headers/Header.webp');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header_Planos{
+    background-image: url('../img/Casamento/cas_04.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header_identidade{
+    background-image: url('../img/headers/Header_equipe.webp');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header_container{
+    height: 80vh;
+}
+
+.header_container_text{
+    margin-left: 38%;
+}
+
+.header_contato_container{
+    margin-left: 25%;
+}
+
+.header_container_Planos{
+    height: 80vh;
+}
+
+.header_container_identidade{
+    height: 80vh;
+}
+
+/*--------------------------------------------------*/
+
+.container_wedding_01{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid white;
+    background-color: white;
+}
+
+.container_wedding_01 h2{
+    color: rgb(0, 0, 0);
+    margin-top: 15px;
+    font-size: 25px ;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container01 a{
+    text-decoration: none;
+}
+
+.container_wedding_01 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 8px;
+    align-items: left center;
+}
+
+/*------------------------------------*/
+
+.container_wedding_02{
+    width:90%;
+    margin: 0 auto;
+    /*border: 1px solid plum*/
+    background-color: white;
+}
+
+.container_wedding_02 h3{
+    color:  rgb(0, 0, 0); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_02 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+/*--------------------------------*/
+
+.container_wedding_03{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid white;
+    background-color: white;
+}
+
+.container_wedding_03 h4{
+    color:  rgb(252, 93, 199); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_06_photos{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px
+}
+
+.wedding{
+    height: 300px;
+    width: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/*----------------------------------------------------*/
+
+.container_wedding_04{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid white;
+    background-color: rgb(255, 255, 255);
+}
+
+.container_wedding_04 h5{
+    color: rgb(0, 0, 0); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_04 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+/*----------------------------------------------------*/
+
+.wedding_05{
+    background-color:white;
+}
+
+.container_wedding_05{
+    width: 90%;
+    margin: 0 auto;
+    background-color:white;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.container_wedding_05 h6{
+    color: rgb(0, 0, 0); 
+    margin-top: 12px;
+    font-size: 23px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.container_wedding_05 p{
+    color: black;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/*----------------------------------------------------*/
+
+.container_logo_footer{
+    text-align: center;
+}
+
+.logo_footer{
+    width: 150px;
+    border-radius: 50%;
+    
+}
+
+footer a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
